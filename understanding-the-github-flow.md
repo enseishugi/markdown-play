@@ -1,6 +1,6 @@
 # Understanding the GitHub flow
 
-This is me reading the guide and pointing out important informations. Of course, this also means pointing out everything in many cases.
+This is me reading the [guide](https://guides.github.com/introduction/flow/) and pointing out important informations. Of course, this also means pointing out everything in many cases.
 
 ## Branching
 * GitHub supports branching of projects. Basically, this means creating a copy of the original project you're free to change in any way without compromising the original.
