@@ -43,8 +43,8 @@ Both URLs and images can be inserted like [this](https://ncatlab.org/nlab/show/Y
 We can even insert blockquotes by starting lines with >:
 > __Yoneda Lemma__
 > Let C be a locally small category, and let Psh(C) be the category of presheaves on C.
-> Let y : C -> Psh(C) be the Yoneda embedding, then Hom(y(-), X) is a presheaf on C, and...
-> ...for any presheaf X in PSh(C) there is a natural isomorphism between Hom(y(-), X) and X.
+> Let y : C -> Psh(C) be the Yoneda embedding, then Hom(y(-), X) is a presheaf on C for any presheaf X, and...
+> There is a natural isomorphism between Hom(y(-), X) and X.
 
 # Inline code
 Markdown supports inline code like `this`.
