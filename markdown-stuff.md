@@ -1,6 +1,7 @@
 # Important remarks
+1. [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
 1. Remember to name files with .md (Markdown) extension.
-1. It's very similar to org.
+1. It's similar to org (it's a markup language, after all...).
 
 # Header
 ## Sub(1)-header
@@ -9,3 +10,19 @@
 ##### Sub(4)-header
 ###### Sub(5)-header
 ####### Sub(6)-header
+
+# Emphasis
+1. For emphasis, both *this* and _this_ work.
+1. For bold, both **this** and __this__ work.
+1. Both can be combined like __*this*__.
+
+# Lists
+## Unordered lists
+Start every node with a * symbol:
+* Like
+* This
+  * And
+  * Subtrees
+    * Are
+    * Supported
+## Ordered lists
