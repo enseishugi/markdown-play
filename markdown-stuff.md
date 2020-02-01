@@ -46,6 +46,8 @@ We can even insert blockquotes by starting lines with >:
 > Let y : C -> Psh(C) be the Yoneda embedding, then Hom(y(-), X) is a presheaf on C for any presheaf X, and...
 > There is a natural isomorphism between Hom(y(-), X) and X.
 
+Will someone by able to unwind its mistery? What makes it true, except for a rather simple check? Why does that check hold? Are there pathological categorical-like structures breaking its harmony?
+
 # Inline code
 Markdown supports inline code like `this`.
 
