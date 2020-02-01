@@ -111,4 +111,4 @@ GitHub supports emoji, and it's darn important.
 1. [Emoji Cheat Sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
 
 # Conclusions
-- [x] Read the Mastering Markodown tutorial :slightly_smiling_face:
+- [x] Read the Mastering Markodown tutorial. :slightly_smiling_face:
