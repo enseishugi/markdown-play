@@ -47,3 +47,15 @@ We can even insert blockquotes by starting lines with >:
 
 # Inline code
 Markdown supports inline code like `this`.
+
+# Syntax highlighting
+```python3
+def sum(n):
+    s = 0
+    for i in range(1, n+1):
+        s += i
+    return s
+    
+def smartsum(n):
+    return n * (n + 1) / 2
+```
