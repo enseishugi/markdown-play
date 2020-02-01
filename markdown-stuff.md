@@ -10,7 +10,7 @@
 ##### Sub(4)-header
 ###### Sub(5)-header
 ####### Sub(6)-header
-
+ 
 # Emphasis
 1. For emphasis, both *this* and _this_ work.
 1. For bold, both **this** and __this__ work.
@@ -18,19 +18,22 @@
 
 # Lists
 ## Unordered lists
-Start every node with a * symbol:
+Start every node with a * character:
 * Like
 * This
   * And
   * Subtrees
     * Are
     * Supported
-    
-    
-    
-    
-    
-    
-    
-    
+
 ## Ordered lists
+Start every node with a 1. string:
+1. Like
+1. This
+   1. And
+   1. Subtrees
+      1. Are
+      1. Supported
+      
+# Hypertext
+Both URLs and images can be inserted like [this](https://ncatlab.org/nlab/show/Yoneda+lemma) and ![this](https://ncatlab.org/nlab/files/YonedaObituary.jpg).
