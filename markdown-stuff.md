@@ -1,6 +1,6 @@
 # Important remarks
 1. [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
-1. [Other references](https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax#using-emoji)
+1. [Other references](https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax)
 1. Remember to name files with .md (Markdown) extension.
 1. It's similar to org (it's a markup language, after all...).
 
