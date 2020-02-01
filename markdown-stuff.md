@@ -78,9 +78,9 @@ Tables are very much like in Org, but here it doesn't fix its visuals automatica
 
 Content            | Markdown | Org
 -------------------|----------|----
-Un/ordered Lists   | x        | x
-Tables             | x        | x
-Other stuff        | x        | x
+Un/ordered Lists   | o        | o
+Tables             | o        | o
+Other stuff        | o        | o
 
 ...It wasn't meant to be a complete table. :D
 
