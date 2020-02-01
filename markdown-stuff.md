@@ -107,7 +107,7 @@ Any word word rapped with two tildes will appear ~~crossed out~~.
 
 # Emoji
 GitHub supports emoji, and it's darn important.
-1. 
+1. [Other references](https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax#using-emoji)
 1. [Emoji Cheat Sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
 
 # Conclusions
