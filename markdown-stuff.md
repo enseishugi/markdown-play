@@ -90,7 +90,7 @@ Other stuff        | o        | o
 If you noticed, there's a SHA-1 string corresponding to every commit. This quote is refering to that string.
 
 # Issue references within a repository
-> Any number that refers to an Issue or Pull REquest will be automatically converted into a link.
+> Any number that refers to an Issue or Pull Request will be automatically converted into a link.
 
 I don't quite get what this means. Maybe it'll soon be clearer as I get used to GitHub.
 
