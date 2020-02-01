@@ -46,5 +46,4 @@ We can even insert blockquotes by starting lines with >:
 > For any presheaf X in PSh(C) there is a natural isomorphism between Hom(y(), X) and X.
 
 # Inline code
-I think you should use an
-`<addr>` element here instead.
+Markdown supports inline code like `this`.
