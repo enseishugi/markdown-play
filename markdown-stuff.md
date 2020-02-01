@@ -1,6 +1,6 @@
 # Important remarks
-l. Remember to name files with .md (Markdown) extension.
-l. It's very similar to org.
+1. Remember to name files with .md (Markdown) extension.
+2. It's very similar to org.
 
 # Header
 ## Sub-header
