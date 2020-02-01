@@ -44,3 +44,7 @@ We can even insert blockquotes by starting lines with >:
 > Let C be a locally small category, and let Psh(C) be the category of presheaves on C.
 > Let y : C -> Psh(C) be the Yoneda embedding.
 > For any presheaf X in PSh(C) there is a natural isomorphism between Hom(y(), X) and X.
+
+# Inline code
+I think you should use an
+`<addr>` element here instead.
